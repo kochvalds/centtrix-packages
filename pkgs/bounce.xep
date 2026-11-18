@@ -1,0 +1,13 @@
+clear
+let a 1
+repeat 10
+clear
+color 14
+box a 6 10 3
+add a 2
+wait 1
+next
+color 10
+say
+say Done.
+wait 2

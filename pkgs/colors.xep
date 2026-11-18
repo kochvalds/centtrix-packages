@@ -1,0 +1,12 @@
+clear
+let a 2
+repeat 8
+color a
+box a 2 10 4
+add a 2
+wait 0
+next
+color 15
+say
+say Eight colours, one line of XPL.
+wait 4

@@ -1,0 +1,6 @@
+clear
+color 10
+say Hello from the Centtrix package repository
+say
+say Install more with: cenpkg install colors
+wait 4

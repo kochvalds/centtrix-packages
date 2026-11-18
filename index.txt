@@ -1,0 +1,3 @@
+hello     greeting and terminal demo
+colors    colour palette and box drawing
+bounce    moving block animation
