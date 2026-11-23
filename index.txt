@@ -1,5 +1,6 @@
 hello     greeting and terminal demo
 colors    colour palette and box drawing
 bounce    moving block animation
-hello_c.bin   native C program
-hello_rs.bin  native Rust program
+hello.c   native C program
+hello.rs  native Rust program
+testland.rs   tiling window manager session
